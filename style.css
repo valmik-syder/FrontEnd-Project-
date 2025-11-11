@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ul{
+    display: flex;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar ul{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
